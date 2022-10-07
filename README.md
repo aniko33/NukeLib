@@ -93,7 +93,14 @@ You must have the ***token of the account*** you want to use, to get the token o
 
 After obtaining the Discord token you can use the library ***without any limitations.***
 
-###### Output
+##### Output
+```json
+{
+   "id":"976073855317717032",
+   "username":"SitDownG0D.",
+   "avatar":"23bc602fde399bec073aff31c6ba85b8",
+   "avatar_decoration":"None"
+```
 
 You can use this output using the **JSON** library: [Guide](https://www.w3schools.com/python/python_json.asp), [Docs](https://docs.python.org/3/library/json.html)
 
