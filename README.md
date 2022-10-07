@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Nukelib</h1>
+  <h1>NUKELIB</h1>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/76649588/194594113-51e9ae21-6dd4-41f3-91a5-f5a44f0bd9c3.png" alt="How-work" width="700"/>
 </div>
 
 ## Index
