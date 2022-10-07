@@ -7,15 +7,15 @@
 
 ## Index
 
-- Features
+- [Features](#features)
 
-- Installation
+- [Installation](#installation)
   
-  - Prerequisites
+  - [Prerequisites](#prerequisites)
   
-  - PIP
+  - [PIP](#pip)
 
-- How work (Diagram)
+- [How work (Diagram)](#how-work-diagram)
 
 - Docs
   
