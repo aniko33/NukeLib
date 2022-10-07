@@ -17,25 +17,25 @@
 
 - [How work (Diagram)](#how-work-diagram)
 
-- Docs
+- [Docs](#docs)
   
-  - Quick start
+  - [Quick start](#quick-start)
   
-  - account_info
+  - [account_info](#account_info)
   
-  - country_code
+  - [country_code](#country_code)
   
-  - user_lookup
+  - [user_lookup](#user_lookup)
   
-  - server_lookup
+  - [server_lookup](#server_lookup)
   
-  - leave_all_servers
+  - [leave_all_servers](#leave_all_servers)
   
-  - spam_server
+  - [spam_server](#spam_server)
   
-  - friends_remover
+  - [friends_remover](#friends_remover)
   
-  - block_all
+  - [block_all](#block_all)
 
 - Bugs and additions
 
