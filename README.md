@@ -4,6 +4,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/76649588/194594113-51e9ae21-6dd4-41f3-91a5-f5a44f0bd9c3.png" alt="How-work" width="700"/>
 </div>
+<div align="center">
+
+  [![License](https://img.shields.io/badge/License-GPL%20v.3-blueviolet)](https://github.com/aniko33/NukeLib/blob/main/License.txt)
+  [![License](https://img.shields.io/badge/Social-Discord-blue)](https://discord.gg/aYRE63GKYc)
+  [![License](https://img.shields.io/badge/Package-PyPI-inactive)](https://pypi.org/project/nukelib/)
+
+</div>
 
 ## Index
 
