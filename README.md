@@ -37,12 +37,11 @@
   
   - [block_all](#block_all)
 
-- Bugs and additions
+- [Bugs and additions](#bug-and-additions)
 
-- Contributors
+- [License](#license)
 
-- License
-
+- [Contributors](#contributors)
 ## Features
 
 - Simplicity of integration
