@@ -36,8 +36,6 @@
 
 - Bugs and additions
 
-- 
-
 - Contributors
 
 - License
