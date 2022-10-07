@@ -1,4 +1,6 @@
-<h1 style="text-align:center">NukeLib</h1>
+<div align="center">
+  <h1>Nukelib</h1>
+</div>
 
 ## Index
 
@@ -287,6 +289,6 @@ The library is distributed under the ***[GPL](https://it.wikipedia.org/wiki/GNU_
 
 ## Contributors
 
-<a href="https://github.com/aniko33/Gold_grabber/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=aniko33/Gold_grabber"/>
+<a href="https://github.com/aniko33/NukeLib/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=aniko33/NukeLib"/>
 </a>
