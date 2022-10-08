@@ -301,7 +301,7 @@ nukelib.block_all(token)
 
 ## License
 
-The library is distributed under the ***[GPL](https://it.wikipedia.org/wiki/GNU_General_Public_License) license*** you can ***consult the file***: ***License.txt***
+The library is distributed under the ***[GPL](https://it.wikipedia.org/wiki/GNU_General_Public_License) license*** you can ***consult the file***: ***[License.txt](License.txt)***
 
 ## Contributors
 
