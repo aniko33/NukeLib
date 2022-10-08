@@ -83,7 +83,7 @@ pip install nukelib
 ***now you will have the library available***
 
 ## How work (Diagram)
-<img src="https://user-images.githubusercontent.com/76649588/194584868-203c5c54-147e-43ed-b795-1f663f49a0dd.png" alt="How-work" width="700"/>
+<img src="https://user-images.githubusercontent.com/76649588/194717657-f4aa9a88-a9c8-44ba-8d16-381fb9d31ab4.png" alt="How-work" width="700"/>
 
 ### Docs
 
